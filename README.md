@@ -8,7 +8,7 @@ Jenkins controller
 
 Node
 
-Agents (java library )to get task execution thru Jenkins controller via executors
+Agents like a session Manager (organize bounch of tasks) to get tasks execution thru Jenkins controller via executors
 
 Executors
 
